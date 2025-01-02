@@ -11,7 +11,6 @@ library(reshape2)
 library(DBI)
 library(RSQLite)
 library(sodium)
-library(gargle)
 
 
 
