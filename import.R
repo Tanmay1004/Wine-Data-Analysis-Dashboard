@@ -7,4 +7,4 @@ install.packages(c("shiny", "shinythemes", "dplyr", "ggplot2", "plotly", "random
 library(readxl)
 
 # Read the Excel file into a data frame
-wine_data <- read_excel("wine_data.xlsx")
+wine_data <- read_excel("filepath/wine_data.xlsx")
